@@ -23,10 +23,10 @@
 ```
 
 
-Подключить файл `"preloader.css"`.
+Подключить файл `"preloader.min.css"`.
 ```html
 <head>
-<link href="css/preloader.css" rel="stylesheet">
+<link href="css/preloader.min.css" rel="stylesheet">
 </head>
 ```
 
