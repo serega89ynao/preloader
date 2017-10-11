@@ -25,14 +25,13 @@ End Preloader
 <link href="css/pincrement.css" rel="stylesheet">
 
 Вставить следующий скрипт в Ваш файл.js 
-
-// Preloader
 ```javascript
+// Preloader
 $(window).on('load', function () {
 	$('#load').delay(1000).fadeOut('slow');
 });
-```
 // End Preloader
+```
 
 Где delay(1000) врямя задержки анимации после загрузки страницы в милисекундах.
 Время выставляется на Ваше усмотрение.
