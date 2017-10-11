@@ -27,9 +27,11 @@ End Preloader
 Вставить следующий скрипт в Ваш файл.js 
 
 // Preloader
+```javascript
 $(window).on('load', function () {
 	$('#load').delay(1000).fadeOut('slow');
 });
+```
 // End Preloader
 
 Где delay(1000) врямя задержки анимации после загрузки страницы в милисекундах.
