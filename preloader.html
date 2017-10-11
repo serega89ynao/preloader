@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Preloader</title>
+	<link rel="stylesheet" href="preloader.css">
+	<style>
+		body {
+			background-image: url(1.jpg);
+			-webkit-background-size: cover;
+			background-size: cover;
+		}
+	</style>
+</head>
+<body>
+	<!-- Preloader -->
+	<div id="load">
+		<div class="preloader-box">
+			<div class="preloader-wr">
+				<div class="red"></div>
+				<div class="yellow"></div>
+				<div class="blue"></div>
+				<div class="green"></div>
+			</div>
+		</div>
+	</div>
+	<!-- End Preloader -->
+	<script src="jquery-3.0.0.min.js"></script>
+	<script>
+    	// Preloader
+    	$(window).on('load', function () {
+    		$('#load').delay(3000).fadeOut('slow');
+    	});
+// End Preloader
+</script>
+</body>
+</html>

@@ -6,18 +6,18 @@ Preloader
 
 После открывающего тега <body> вставить следующий html код
 
-<!-- Preloader -->
-<div id="load">
-	<div class="preloader-box">
-		<div class="preloader-wr">
-			<div class="red"></div>
-			<div class="yellow"></div>
-			<div class="blue"></div>
-			<div class="green"></div>
-		</div>
-	</div>
-</div>
-<!-- End Preloader -->
+Preloader
+&lt;div id="load"&gt;
+	&lt;div class="preloader-box"&gt;
+		&lt;div class="preloader-wr"&gt;
+			&lt;div class="red"&gt;&lt;/div&gt;
+			&lt;div class="yellow"&gt;&lt;/div&gt;
+			&lt;div class="blue"&gt;&lt;/div&gt;
+			&lt;div class="green"&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+End Preloader
 
 Подключить файл " spincrement.css " между тегами <head></head>
 <link href="css/pincrement.css" rel="stylesheet">
