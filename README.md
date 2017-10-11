@@ -23,7 +23,7 @@
 ```
 
 
-Подключить файл `"spincrement.css"` между тегами 
+Подключить файл `"spincrement.css"`.
 ```html
 <head>
 <link href="css/pincrement.css" rel="stylesheet">
