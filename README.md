@@ -23,10 +23,10 @@
 ```
 
 
-Подключить файл `"spincrement.css"`.
+Подключить файл `"preloader.css"`.
 ```html
 <head>
-<link href="css/pincrement.css" rel="stylesheet">
+<link href="css/preloader.css" rel="stylesheet">
 </head>
 ```
 
