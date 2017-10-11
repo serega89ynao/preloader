@@ -1,7 +1,7 @@
 ПРИВЕТ!!!
-<div style="width: 100px; height: 100px">
+
 ![screenshot of sample](https://github.com/serega89ynao/preloader/blob/master/img/4.png)
-</div>
+
 Для того чтобы данный прелоуд работал нужно произвести некоторые действия.
 
 После открывающего тега 
