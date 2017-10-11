@@ -7,7 +7,7 @@ Preloader
 После открывающего тега <body> вставить следующий html код
 
 Preloader
-&lt;div id="load"&gt;
+&lt;`div` id="load"&gt;
 	&lt;div class="preloader-box"&gt;
 		&lt;div class="preloader-wr"&gt;
 			&lt;div class="red"&gt;&lt;/div&gt;
