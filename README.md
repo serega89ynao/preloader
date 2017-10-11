@@ -21,8 +21,13 @@ Preloader
 ```
 
 
-Подключить файл " spincrement.css " между тегами ```html<head></head>```
-```html<link href="css/pincrement.css" rel="stylesheet">```
+Подключить файл " spincrement.css " между тегами 
+```html
+<head></head>
+```
+```html
+<link href="css/pincrement.css" rel="stylesheet">
+```
 
 Вставить следующий скрипт в Ваш файл.js 
 ```javascript
